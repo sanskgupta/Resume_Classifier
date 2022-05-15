@@ -1,6 +1,6 @@
 # Resume_Classifier
 
-H1 A simple Resume Parser used for extracting information from Resumes/CVs
+A simple Resume Parser used for extracting information from Resumes/CVs
 
 Installation
 pip install pyresparser
@@ -11,7 +11,9 @@ Easy extraction and interpretation using GUI
 For running GUI execute:
 
   python resume_parser/manage.py makemigrations
+  
   python resume_parser/manage.py migrate
+  
   python resume_parser/manage.py runserver
 
 Visit 127.0.0.1 to view the GUI
