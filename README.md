@@ -2,9 +2,6 @@
 
 A simple Resume Parser used for extracting information from Resumes/CVs
 
-Installation
-pip install pyresparser
-
 GUI
 Django used
 Easy extraction and interpretation using GUI
